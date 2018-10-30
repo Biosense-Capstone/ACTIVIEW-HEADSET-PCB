@@ -1,0 +1,22 @@
+# project output folders
+/Exports/
+/History/
+/Project Logs for ACTIVIEW-HEADSET-PCB/
+/Project Outputs for ACTIVIEW-HEADSET-PCB/
+/gerbers\ History/
+/gerbers\ __Previews/
+
+# project generated files
+*.htm
+*.zip
+*.SchDocPreview
+*.PcbDocPreview
+*.Zip
+*.Dat
+*.PrjPCBStructure
+*.Identifier
+*.xls
+*.PCL
+*.Annotation
+*.cam
+
