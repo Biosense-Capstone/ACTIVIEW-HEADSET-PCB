@@ -139,6 +139,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LIGRLNUC
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for ACTIVIEW-HEADSET-PCB\Design Rule Check - HEADSET-PCB.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Default Configuration
 ParameterCount=0
