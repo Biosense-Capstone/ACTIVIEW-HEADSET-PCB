@@ -1,0 +1,15 @@
+CAMtasticDXP Drill Report
+Serial Number:0000-00-00000
+Drill File: F:\Sach Folder\New folder\GitHub\ACTIVIEW-HEADSET-PCB\Gerbers\cam.drl
+Format: 2.3
+Units: English (Inch)
+Step & Repeat Codes Used: NO
+
+
+TOOL		SIZE		COUNT
+====		======		=====
+
+ 1 		0.0100		75
+ 2 		0.0118		25
+ 3 		0.0354		2
+ 4 		0.0787		3
